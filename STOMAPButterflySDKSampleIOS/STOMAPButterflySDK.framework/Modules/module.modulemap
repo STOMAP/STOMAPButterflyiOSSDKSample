@@ -1,0 +1,6 @@
+framework module STOMAPButterflySDK {
+  umbrella header "STOMAPButterflySDK.h"
+
+  export *
+  module * { export * }
+}
