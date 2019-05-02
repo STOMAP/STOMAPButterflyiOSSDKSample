@@ -13,8 +13,9 @@ Getting Started
 
 2. Add the following service setup to `info.plist` file
 ```
-NSLocationAlwaysAndWhenInUseUsageDescription
-NSLocationWhenInUseUsageDescription
+Privacy - Location Always and When In Use Usage Description
+Privacy - Location When In Use Usage Description
+Privacy - Location Always Usage Description
 ```
 
 3. Add `#import <STOMAPButterflySDK/STOMAPButterflySDK.h>` into your ViewController.m
