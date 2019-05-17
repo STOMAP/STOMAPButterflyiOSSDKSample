@@ -17,6 +17,7 @@ typedef enum {
 } STOMAPButterflySDKAliasType;
 NS_ASSUME_NONNULL_BEGIN
 @protocol STOMAPButterManagerDelegate <NSObject>
+-(void)getLocationStatusIsAlways:(BOOL)value;
 -(void)getResult:(NSString*)result;
 -(void)getStatus:(NSString*)status;
 -(void)getScanStatus:(NSString*)status;
