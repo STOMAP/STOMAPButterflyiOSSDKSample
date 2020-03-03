@@ -16,6 +16,8 @@ Getting Started
 Privacy - Location Always and When In Use Usage Description
 Privacy - Location When In Use Usage Description
 Privacy - Location Always Usage Description
+Privacy - Bluetooth Always Usage Description
+Privacy - Bluetooth Peripheral Usage Description
 ```
 
 3. Add `#import <STOMAPButterflySDK/STOMAPButterflySDK.h>` into your ViewController.m
