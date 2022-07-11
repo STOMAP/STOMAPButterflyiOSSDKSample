@@ -30,6 +30,8 @@
 	<string>務必開啟永遠允許</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>務必開啟永遠允許</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>務必開啟永遠允許</string>
 	<key>LSApplicationCategoryType</key>
 	<string></string>
 	<key>NSAppTransportSecurity</key>
